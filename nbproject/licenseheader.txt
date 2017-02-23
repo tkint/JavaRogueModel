@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Everyone is authorized to read, copy and share the code below
+${licensePrefix}if the authors are credited
+<#if licenseLast??>
+${licenseLast}
+</#if>
